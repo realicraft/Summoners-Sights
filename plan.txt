@@ -1,0 +1,23 @@
+THEME: Summoning
+
+- mons game
+- summon entities known as "summons"
+- summons are summoned with scrolls attuned to them, plus various items
+- scrolls can be attuned to enemy summons in battles
+  - scrolls need to be attuned multiple times before they can be used
+- blank scrolls are bought froms shops
+  - some items are also bought from shops
+- summons start out typeless ("unaligned")
+  - summons can be aligned to certain types using special crystals
+  - this also makes them stronger
+
+
+elemental alignments:
+- unaligned
+- fire -> plant, ice
+- plant -> water, ground
+- water -> fire
+- electric -> water
+- ice -> fire, water
+- ground -> electric, water
+- colors are gray, red/orange, green, blue, yellow, cyan, brown/tan
